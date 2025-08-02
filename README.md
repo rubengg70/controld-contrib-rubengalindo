@@ -46,3 +46,10 @@ Documenting technical contributions, field-tested solutions, and improvement pro
 
 My contributions aim to support the growth of ControlD by identifying edge-case behaviors, building tooling around production use, and providing valuable insight to improve the user experience.
 
+---
+
+## Feature Requests
+
+- [Provide Dashboard Handshake (Keepalive) Trigger on Startup](https://github.com/Control-D-Inc/ctrld/issues/253)
+
+
